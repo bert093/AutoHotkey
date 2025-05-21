@@ -30,6 +30,13 @@ git clone https://github.com/bert093/MyAutoHotkey.git
 volume.ahk (Run as administrator)
 ```
 
+3. Use the keyboard shortcuts:
+
+```
+Ctrl + Alt + = -> 🔊 increase volume
+Ctrl + Alt + - -> 🔉 Decrease volume
+```
+
 ## 📁 Project Structure
 
 ```
